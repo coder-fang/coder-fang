@@ -2,9 +2,9 @@
 
 <!--
 **coder-fang/coder-fang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://api.spencerwoo.com/substats/?source=&queryKey={请求数据标签}
 Here are some ideas to get you started:
-
+![](https://img.shields.io/badge/dynamic/json?color=da282a&label=github%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcoder-fang)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
