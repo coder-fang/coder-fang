@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-Java               12 hrs 57 mins  █████████████████▓░░░░░░░   71.09 % 
-XML                2 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-YAML               1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-GitIgnore file     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-spring.factories   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Java               17 hrs 6 mins   ██████████████████░░░░░░░   72.38 % 
+XML                3 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.93 % 
+YAML               2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+GitIgnore file     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+spring.factories   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/badge/dynamic/json?color=da282a&label=github&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcoder-fang)](https://github.com/coder-fang)
