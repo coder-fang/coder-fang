@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-YAML   5 hrs 31 mins   █████████████████▓░░░░░░░   70.49 % 
-Java   1 hr 43 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.97 % 
-XML    33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Text   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+YAML   2 hrs 16 mins   ██████████████░░░░░░░░░░░   55.62 % 
+Java   1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.54 % 
+XML    46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.83 % 
 ```
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/badge/dynamic/json?color=da282a&label=github&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcoder-fang)](https://github.com/coder-fang)
