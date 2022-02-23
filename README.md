@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
-Java   2 hrs 29 mins   ███████████████████████▓░   94.00 % 
-XML    9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Java   5 hrs 36 mins   ████████████████████▓░░░░   83.31 % 
+XML    1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.69 % 
 ```
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/badge/dynamic/json?color=da282a&label=github&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcoder-fang)](https://github.com/coder-fang)
