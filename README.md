@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+
 ```text
-Java   7 hrs 21 mins   █████████████████████░░░░   84.34 % 
-XML    1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Java   7 hrs 20 mins   █████████████████████░░░░   84.30 %
+XML    1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
 ```
+
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/badge/dynamic/json?color=da282a&label=github&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcoder-fang)](https://github.com/coder-fang)
 
