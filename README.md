@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java           3 hrs 3 mins    ████████████████████▓░░░░   82.77 %
-Markdown       21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-Batchfile      14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Groovy         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java       2 hrs 11 mins   ████████████████████████▓   98.99 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
