@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ```text
 Java               5 hrs 34 mins   ████████████████████████░   96.23 %
-XML                12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+XML                12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 spring.factories   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
