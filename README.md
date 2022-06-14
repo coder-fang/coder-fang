@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML           44 mins         █████████████████░░░░░░░░   67.81 %
-Markdown       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-SQL            5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-Shell Script   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-JavaScript     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Java           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+YAML           44 mins         ████████████████░░░░░░░░░   64.64 %
+JavaScript     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Markdown       5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+SQL            5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Shell Script   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Java           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
