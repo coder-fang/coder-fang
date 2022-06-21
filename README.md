@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       2 mins          ███████████▒░░░░░░░░░░░░░   45.87 %
-Markdown         2 mins          █████████▒░░░░░░░░░░░░░░░   37.17 %
-Vue.js           0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-GitIgnore file   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Text             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown         2 mins          █████████████████████▒░░░   85.53 %
+GitIgnore file   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
 ```
 
 <!--END_SECTION:waka-->
