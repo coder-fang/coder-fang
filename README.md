@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         2 mins          █████████████████████▒░░░   85.53 %
-GitIgnore file   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
+Java         4 mins          ███████████████████████░░   92.40 %
+JavaScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
