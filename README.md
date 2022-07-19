@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON   9 mins          █████████████████████▓░░░   86.26 %
-SQL    1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
