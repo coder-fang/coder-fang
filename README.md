@@ -3,7 +3,6 @@
   <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=coder-fang.coder-fang" /> 	
 </h1>
 
-## 👋 Hi there 
 
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=coder-fang&show_icons=true&theme=react" />
 
