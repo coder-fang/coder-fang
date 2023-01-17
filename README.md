@@ -6,7 +6,7 @@
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=coder-fang&show_icons=true&theme=react" />
 
 - 😄 I'm a Front-end developer named shancaijiangzi working in China, Henan
-- 🌱 I'm currently learning Vue and Typescript
+- 🌱 I'm currently learning React and Typescript
 - 📖 I am currently reading Professional JavaScript for Web Developers by Matt Frisbie
 - 📝 I regulary write technical articles for [CSDN](https://shancaijiangzi.blog.csdn.net/)
 - 💬 Ask me about anything, I am happy to help
