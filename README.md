@@ -30,7 +30,6 @@
 	<img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff"/>    
 	<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>    
 </p>
-
 ## 🤖 Reach me
 [![](https://img.shields.io/badge/dynamic/json?color=da282a&label=github&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcoder-fang)](https://github.com/coder-fang)
 
