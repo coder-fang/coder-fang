@@ -6,8 +6,8 @@
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=coder-fang&show_icons=true&theme=react" />
 
 - 😄 I'm a Front-end developer named shancaijiangzi working in China
-- 🌱 I'm currently learning React and Typescript
-- 📖 I am currently reading Professional JavaScript for Web Developers by Matt Frisbie
+- 🌱 I'm currently learning Computer Graphics
+- 📖 I'm also trying to learn C++ now
 - 📝 I regulary write technical articles for [CSDN](https://shancaijiangzi.blog.csdn.net/)
 - 💬 Ask me about anything, I am happy to help
 - ⚡ My hobbies are singing and playing badminton
@@ -20,8 +20,10 @@
 	<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff"/>
 	<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3"/>
 	<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
+	<img src="https://img.shields.io/badge/-JAVA-%230769AD.svg?style=for-the-badge&logo=java&logoColor=white"/>	
 	<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>	
 	<img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs"/>	
+	<img src="https://img.shields.io/badge/-React-%231572B6?style=for-the-badge&logo=react"/>
 	<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>	
 	<img src="https://img.shields.io/badge/vite-%23F24E1E.svg?style=for-the-badge&logo=vite&logoColor=blue"/>
 	<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> 
