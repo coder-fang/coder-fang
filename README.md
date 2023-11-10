@@ -2,7 +2,6 @@
 <img width='35' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/>  <img src='https://readme-typing-svg.herokuapp.com?vCenter=true&height=25&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%93%F0%9D%92%86~'/>
   <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=coder-fang.coder-fang" /> 	
 </h1>
-
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=coder-fang&show_icons=true&theme=react" />
 
 - 😄 I'm a Front-end developer named shancaijiangzi working in China
