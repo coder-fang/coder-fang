@@ -10,7 +10,6 @@
 - ⚡ My hobbies are singing and playing badminton
 - 🐰 Like singer Amber from the f(x) group
 
-
 ## ✨ Tech & Skill
 <img align='right' width='35%' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder-fang&theme=nord_dark'/>
 <!-- - 🌱 I'm currently learning Computer Graphics
